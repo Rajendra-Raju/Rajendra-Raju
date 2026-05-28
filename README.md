@@ -71,6 +71,7 @@ Domain      : Microsoft Ecosystem
 ![Dataverse](https://img.shields.io/badge/Dataverse-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🤖 AI & Agentic Systems
+![Generative AI](https://img.shields.io/badge/Generative_AI-e11d48?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6d28d9?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-10b981?style=for-the-badge&logo=openai&logoColor=white)
